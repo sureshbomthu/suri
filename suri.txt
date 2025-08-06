@@ -5,4 +5,5 @@ git fork is a copy of main repository.
 new data is added
 upto 6th line
 hi adding 7th line for push dats
-..
+this line is deleted
+added new line.
